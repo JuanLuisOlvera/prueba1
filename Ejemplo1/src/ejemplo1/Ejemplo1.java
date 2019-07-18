@@ -16,6 +16,13 @@ public class Ejemplo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //esto es una prueba em gib 
+        System.out.println("Ejemplo 1");
+        System.out.println("Ejemplo 2");
+        System.out.println("Ejemplo 3");
+        System.out.println("Ejemplo 4");
+        
     }
     
 }
